@@ -1,8 +1,10 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+pip install seaborn
 import seaborn as sns
 import matplotlib.pyplot as plt
+pip install sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.linear_model import LogisticRegression
